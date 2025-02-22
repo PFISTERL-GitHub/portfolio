@@ -1,8 +1,8 @@
 :root {
   --primary-color: #2563eb;
-  --text-color: #333;
-  --bg-color: #ffffff;
-  --section-bg: #f8fafc;
+  --text-color: #ffffff;
+  --bg-color: #333333;
+  --section-bg: #444444;
   --navbar-height: 70px;
 }
 
