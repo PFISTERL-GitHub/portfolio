@@ -2,7 +2,7 @@
   --primary-color: #2563eb;
   --text-color: #ffffff;
   --bg-color: #333333;
-  --section-bg: #444444;
+  --section-bg: #333333;
   --navbar-height: 70px;
 }
 
@@ -80,7 +80,7 @@ body {
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 600px;
   margin: 0 auto;
   width: 100%;
 }
